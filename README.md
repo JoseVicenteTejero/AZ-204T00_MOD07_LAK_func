@@ -1035,4 +1035,4 @@ Task 3: Close the active application
  
 
 PROBLEMAS
-No
+En el ejercicio 3, tarea 4, punto 9 me da el mensaje HTTP/1.1 404 en lugar de HTTP/1.1 200 OK.
